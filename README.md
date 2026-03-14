@@ -1,21 +1,44 @@
 # Real-Estate-Website
 
+A modern and responsive real estate landing page built using HTML, CSS, and JavaScript.
+This project features a clean UI design with smooth animations, property listings, and a user-friendly layout for browsing luxury homes.
 
----
+Features
 
-💡 **Tip for you:**  
-When you upload this to GitHub, add these files:
+Responsive design (Desktop, Tablet, Mobile)
 
-- `index.html`
-- `style.css`
-- `script.js`
-- `README.md`
+Sticky navigation bar
 
-Your project will look **like a professional portfolio project**, which helps if you plan to apply for **web development internships or freelance work**.
+Property search section
 
----
+Featured property cards
 
-If you want, I can also give you:
+Property listing grid
 
-- **A MUCH BETTER README (the type that gets thousands of GitHub stars ⭐)**  
-- **Badges + screenshots + live demo section for your repo.**
+Animated statistics counters
+
+FAQ accordion
+
+Testimonial slider
+
+Smooth scrolling and hover animations
+
+Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+How to Run
+
+Download or clone the repository
+
+Open the project folder
+
+Open index.html in your browser
+
+Author
+
+Muhammad Shaheer
