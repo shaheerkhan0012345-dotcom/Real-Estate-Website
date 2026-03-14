@@ -37,6 +37,8 @@ Download or clone the repository
 
 Open the project folder
 
+![image alt](https://github.com/shaheerkhan0012345-dotcom/Real-Estate-Website/blob/33e5400570d08bdd1cb2dfa6e614b9e7bc08811b/real%20estate%20website.jpg)
+
 Open index.html in your browser
 
 Author
